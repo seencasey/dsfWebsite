@@ -97,3 +97,7 @@ html {
 a:active, a:visited {
     color: gray;
 }
+
+a:link {
+    color: darkgray
+}
